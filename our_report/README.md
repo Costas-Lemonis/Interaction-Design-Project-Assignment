@@ -29,8 +29,12 @@ led = αναβει οταν ανιχνευτει κινηση απο το χερ
 
 # 3rd Deliverable 
 - **Scenarios & Storyboarding**
-- (Ο χρηστης θελει να στριψει δεξια)![d1](https://user-images.githubusercontent.com/100446886/172420602-8e1f84d1-be41-47d3-b809-ab1d0b784a1b.jpg)
-- (Ο χρηστης θελει να στριψει αριστερα)![d2](https://user-images.githubusercontent.com/100446886/172421022-2a6d0963-a102-4674-8f80-6243430210cc.jpg)
+- (Ο χρηστης θελει να στριψει δεξια)![d1](https://user-images.githubusercontent.com/100446886/172420602-8e1f84d1-be41-47d3-b809-ab1d0b784a1b.jpg)![image](https://user-images.githubusercontent.com/100446886/172717754-190cee83-15f9-4805-98a9-b9e88afbde04.png)
+
+- (Ο χρηστης θελει να στριψει αριστερα)![d2](https://user-images.githubusercontent.com/100446886/172421022-2a6d0963-a102-4674-8f80-6243430210cc.jpg)![image](https://user-images.githubusercontent.com/100446886/172717659-6bd367e1-0f0c-4251-bac9-f073e625ec55.png)
+
+- Photoresistor![image](https://user-images.githubusercontent.com/100446886/172718265-8be3c8bf-bdc2-4632-98cc-b9625d841bf3.png)
+
 
 - **Prototyping**
 - ![Untitled](https://user-images.githubusercontent.com/100446886/172422429-0809f762-ee07-48c8-a8d3-93edb868adc8.png)
@@ -38,7 +42,8 @@ led = αναβει οταν ανιχνευτει κινηση απο το χερ
 - ![fdgfhg](https://user-images.githubusercontent.com/100446886/172423666-41d16700-e895-4d9b-bb64-d9abfd489e5b.png)
 [Simulate Test](https://www.tinkercad.com/things/6TsU6A3t10m-project) [Code](https://github.com/Costas-Lemonis/Interaction-Design-Project-Assignment/blob/main/Soure%20Code.txt)
 # Conclusions
-
+- **Τελικο**
+![tshirtarduino](https://user-images.githubusercontent.com/100446886/172716635-ddd79fde-aaaf-4d22-96ca-f653f0e5b059.png)
 
 # Sources
 [Tinkercad](https://www.tinkercad.com/) | [Github](https://github.com/) | Eclass Aegean 
