@@ -29,11 +29,12 @@ led = αναβει οταν ανιχνευτει κινηση απο το χερ
 
 # 3rd Deliverable 
 - **Scenarios & Storyboarding**
-- (Ο χρηστης θελει να στριψει δεξια)![d1](https://user-images.githubusercontent.com/100446886/172420602-8e1f84d1-be41-47d3-b809-ab1d0b784a1b.jpg)![image](https://user-images.githubusercontent.com/100446886/172717754-190cee83-15f9-4805-98a9-b9e88afbde04.png)
+- (Ο χρηστης θελει να στριψει δεξια)![d1](https://user-images.githubusercontent.com/100446886/172420602-8e1f84d1-be41-47d3-b809-ab1d0b784a1b.jpg)![eryhj](https://user-images.githubusercontent.com/100446886/172718863-aaecba33-d418-49cf-9cc2-d940d63ba713.gif)
 
-- (Ο χρηστης θελει να στριψει αριστερα)![d2](https://user-images.githubusercontent.com/100446886/172421022-2a6d0963-a102-4674-8f80-6243430210cc.jpg)![image](https://user-images.githubusercontent.com/100446886/172717659-6bd367e1-0f0c-4251-bac9-f073e625ec55.png)
+- (Ο χρηστης θελει να στριψει αριστερα)![d2](https://user-images.githubusercontent.com/100446886/172421022-2a6d0963-a102-4674-8f80-6243430210cc.jpg)![ezgif com-gif-maker](https://user-images.githubusercontent.com/100446886/172718915-4a87abd3-524a-403c-9c3c-ad03cd9a48c6.gif)
 
-- Photoresistor![image](https://user-images.githubusercontent.com/100446886/172718265-8be3c8bf-bdc2-4632-98cc-b9625d841bf3.png)
+
+- Photoresistor ![wtytejy](https://user-images.githubusercontent.com/100446886/172718949-aec09b7c-dd49-46b7-92b9-7f6858e44b2a.gif)
 
 
 - **Prototyping**
